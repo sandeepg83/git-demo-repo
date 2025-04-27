@@ -8,4 +8,5 @@ Test for main HEAD pointer after merge feature.
 Test2 for main HEAD pointer after merge feature.
 L1: Feature - Main HEAD Test line.
 L2: Feature - Main HEAD Test line.
+L3: for Tags only.
 
