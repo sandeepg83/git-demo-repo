@@ -3,3 +3,4 @@ The quick brown fox jumps over the lazy little dog.
 The quick brown fox jumps over the lazy little dog.
 
 Test for main HEAD pointer after merge feature
+Test2 for main HEAD pointer after merge feature
