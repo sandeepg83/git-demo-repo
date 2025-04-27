@@ -4,5 +4,5 @@ The quick brown fox jumps over the lazy little dog.
 
 This line is added for feature branch only.
 
-Line 2 - feature branch only.
 
+Line added for main only. 
